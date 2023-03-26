@@ -1,4 +1,5 @@
 * {background-color: #ece9d8 !important;}
+ul.tree-view ul>li:last-child:after {background: none !important;}
 
 details > summary {
 	list-style: none;
